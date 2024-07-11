@@ -7,14 +7,45 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
+software engennering is a discipline that deals with the design, development, maintenance, testing and evaluation of software and software systems.
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+Emphasis on Process and Methodology: Software engineering follows structured methodologies and best practices to ensure consistent and repeatable results.
+Team-Based Approach: Software projects typically involve multiple engineers working collaboratively.
+Focus on Quality Assurance: Software engineers implement rigorous testing and verification techniques to minimize defects and ensure reliability.
+Maintenance and Evolution: Software engineering considers the long-term maintainability and scalability of software systems.
+Collaboration with Other Disciplines: Software engineers often work closely with other professionals, such as system analysts, designers, and users.
+Software DevelopmentLife Cycle (SDLC)
+The Software Development Life Cycle is a framework that describes the phases of a software development project from inception to completion and maintenance. It ensures a systematic approach to software development.
 
+Phases of SDLC:
+Planning:
+Define the scope and purpose of the project.
+Conduct feasibility studies and resource allocation.
+Develop a project plan and timeline.
+Requirements Analysis:
+Gather and document detailed functional and non-functional requirements.
+Engage stakeholders to ensure their needs are captured.
+Design:
+Create architectural designs and detailed system designs.
+Plan the software’s structure, components, interfaces, and data flow.
+Implementation (Coding):
+Write the actual code according to the design specifications.
+Use version control systems to manage code changes.
+Testing:
+Conduct various testing types (unit, integration, system, acceptance) to ensure the software is bug-free and meets requirements.
+Perform debugging and validation.
+Deployment:
+Release the software to the production environment.
+Ensure proper installation and configuration.
+Maintenance:
+Provide ongoing support and updates to fix bugs, add features, and improve performance.
+Manage version control and software patches.
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile model is an iterative and incremental approach to software development. It emphasizes flexibility, customer collaboration, and delivering small, functional pieces of the software frequently while The Waterfall model is a linear and sequential approach to software development. It is divided into distinct phases, each of which must be completed before the next begins. It follows a top-down approach.
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
